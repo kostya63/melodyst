@@ -22,6 +22,7 @@ This project is intended to discover posssible appoaches to estimate audio simil
 
 4. Архитектрура нейронной сети
 - сеть построена на базе Wide Residual Network 
+- на выходе сети формируется embedding размерности 2
 
 5. Функция ошибки
 Поскольку решаемая задача отличается от классической задачи классификации, то использовалаь специализиррованная loss-функция Triple Margin Loss из библитеки Pytorch Metric Learning.
