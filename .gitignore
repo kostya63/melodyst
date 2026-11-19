@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.wav
+*.mp3
+*.flac
