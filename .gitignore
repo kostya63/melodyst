@@ -9,3 +9,6 @@ __pycache__/
 *.wav
 *.mp3
 *.flac
+
+.index_cache/
+*.deb
